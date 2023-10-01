@@ -4,7 +4,7 @@ to install smtplib u have to write 'py -m pip intall smtplib', or 'py3 -m pip in
 or any other alternative
 
 in order to get the 'password' argument u have to create a apppassword, for this
-u have to go to 'myaccount.google.com/u/4/apppasswords
+u have to go to 'myaccount.google.com/u/4/apppasswords'
 
 there u can write the name, for me i wrote python, and then u get the password, and u write it
 in the code
