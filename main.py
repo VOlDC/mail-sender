@@ -9,6 +9,8 @@ s.starttls()
 # Authentication
 s.login("sender", "password")
 
+# if u dont know what to enter at the "password" option, or any other option, go read the README file
+
 # message to be sent
 message = "message"
 
